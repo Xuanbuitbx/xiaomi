@@ -3,3 +3,81 @@
     color: rgb(50, 49, 49);
     margin: 0;
 }
+.countdown {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .countdown__item {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    background-color: #ffffff;
+    color: #ec7a00;
+    text-align: center;
+    line-height: 2em;
+    margin: 0 0.5em;
+    border-radius: 0.25em;
+  }
+  
+  .countdown__separator {
+    font-size: 1.5rem;
+  }
+  
+
+  .carousel {
+  width: 100%;
+}
+
+.carousel-cell {
+  width: 100%;
+  padding: 20px;
+  background-color: #ddd;
+}
+
+.previous, .next {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.previous:hover, .next:hover {
+  background-color: #555;
+}
+.slider {
+  position: relative;
+}
+.slider-container {
+  display: flex;
+  overflow-x: auto;
+}
+.slider-item {
+  flex-shrink: 0;
+  width: 300px;
+  margin-right: 20px;
+}
+.slider-item img {
+  display: block;
+  margin: 0 auto 10px;
+}
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 10px;
+  font-size: 16px;
+}
+.prev {
+  left: 0;
+}
+.next {
+  right: 0;
+}
+
+
+/* slider */

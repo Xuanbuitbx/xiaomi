@@ -8,8 +8,8 @@
   },
   {
     "Name": "Tivi",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "9,000,000đ",
+    "oldprice": "3,400,000đ",
     "rating": 3.2,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
@@ -22,8 +22,8 @@
   },
   {
     "Name": "Máy giặt",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "5,000,000đ",
+    "oldprice": "2,400,000đ",
     "rating": 4.0,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
@@ -37,35 +37,35 @@
   {
     "Name": "Lò vi sóng",
     "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "oldprice": "3,400,000đ",
     "rating": 3.5,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
   {
     "Name": "Máy ảnh",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "5,000,000đ",
+    "oldprice": "4,400,000đ",
     "rating": 4.3,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
   {
     "Name": "Máy hút bụi",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "5,000,000đ",
+    "oldprice": "4,400,000đ",
     "rating": 3.6,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
   {
     "Name": "Loa",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "7,000,000đ",
+    "oldprice": "6,400,000đ",
     "rating": 4.1,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   },
   {
     "Name": "Đầu đĩa Bluray",
-    "Price": "8,000,000đ",
-    "oldprice": "7,400,000đ",
+    "Price": "4,000,000đ",
+    "oldprice": "3,400,000đ",
     "rating": 3.9,
     "image": "https://www.theiphonewiki.com/w/images/thumb/9/9d/IPadPro_12.9-inch_4th_generation.png/300px-IPadPro_12.9-inch_4th_generation.png"
   }
